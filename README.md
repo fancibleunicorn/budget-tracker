@@ -1,5 +1,5 @@
 # Budget Tracker
-![Project Image](public/projectimage.jpg)
+![Project Image](public/projectimage.png)
 
   ## Description
 
